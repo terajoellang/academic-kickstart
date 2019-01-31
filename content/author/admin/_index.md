@@ -6,14 +6,14 @@ name = "Joel Lang"
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Sys"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "BIT", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "WSO2."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
